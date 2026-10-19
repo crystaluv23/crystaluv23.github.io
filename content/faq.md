@@ -5,6 +5,7 @@ url: /faq/
 hidemeta: true
 showtoc: false
 searchHidden: true
+hiddenInRss: true
 ---
 
 ## 这里会写些什么？

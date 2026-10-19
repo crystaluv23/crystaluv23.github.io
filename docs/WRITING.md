@@ -25,6 +25,7 @@ code content/drafts/first-post.md
 ```yaml
 ---
 title: "我的第一篇笔记"
+date: "2026-10-19"
 description: "一句话说明这篇文章写什么"
 tags: ["笔记"]
 draft: true
