@@ -67,7 +67,7 @@ jobs:
         run: |
           set -euo pipefail
           site_url="${PAGES_BASE_URL:-$DEFAULT_BASE_URL}"
-          hugo --gc --minify --baseURL "${site_url%/}/"
+          hugo --gc --minify --panicOnWarning --baseURL "${site_url%/}/"
           python3 scripts/check_site.py public
 
       - name: Upload Pages artifact

@@ -39,11 +39,11 @@ params:
     Title: 👋 Welcome to L’s Log
     Content: Hi, this is L. A place for learning notes, ideas, and things worth remembering.
   assets:
-    favicon: /favicon.svg
-    favicon16x16: /favicon-16x16.png
-    favicon32x32: /favicon-32x32.png
-    apple_touch_icon: /apple-touch-icon.png
-    safari_pinned_tab: /favicon.svg
+    favicon: favicon.svg
+    favicon16x16: favicon-16x16.png
+    favicon32x32: favicon-32x32.png
+    apple_touch_icon: apple-touch-icon.png
+    safari_pinned_tab: favicon.svg
     disableHLJS: true
   fuseOpts:
     isCaseSensitive: false
