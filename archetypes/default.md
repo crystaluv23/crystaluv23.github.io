@@ -1,0 +1,12 @@
+---
+title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+date: '{{ .Date }}'
+description: ''
+tags: []
+draft: true
+---
+
+Write your introduction here.
+
+## First section
+
