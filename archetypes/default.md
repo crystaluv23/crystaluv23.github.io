@@ -6,7 +6,3 @@ tags: []
 draft: true
 ---
 
-Write your introduction here.
-
-## First section
-
