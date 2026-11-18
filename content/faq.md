@@ -22,4 +22,4 @@ hiddenInRss: true
 
 ## 这个博客是怎么搭建的？
 
-博客使用 [Hugo](https://gohugo.io/) 生成，采用 [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 主题，参考 [Lil’Log](https://lilianweng.github.io/) 的排版与页面结构。
+博客使用 Hugo 生成，采用 PaperMod 主题。

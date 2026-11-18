@@ -25,7 +25,10 @@ params:
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
+  socialIcons: []
+  # Use extend_footer.html for a minimal copyright footer; keep theme scripts.
+  hideFooter: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true

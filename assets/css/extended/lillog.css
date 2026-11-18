@@ -1,7 +1,6 @@
 /* Measured from Lil’Log; keep upstream PaperMod unmodified. */
 body { font-size: 16px; }
 .header-nav { justify-content: flex-end; }
-.logo-switches::after { content: "|"; margin-inline-start: 4px; font-size: 16px; }
 .first-entry { min-height: unset; }
 .home-info .entry-content { margin: 14px 0; }
 .home-info .entry-content p { margin: 0; }

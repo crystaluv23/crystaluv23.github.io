@@ -37,4 +37,6 @@ Hugo 版本由 `.hugo-version` 和 CI 固定为 **0.164.0**；PaperMod 固定在
 - `assets/css/extended/lillog.css`：排版补充；`static/`：站点图标。
 - `layouts/_partials/extend_head.html`：MathJax 公式渲染。
 
-这是基于官方 [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 的外观与行为复现，并非 Lil’Log 私有源码的副本。保留 Hugo / PaperMod 署名，不沿用原作者身份、文章或统计代码。主题采用其目录内的 MIT LICENSE。部署方式参照 [Hugo 官方文档](https://gohugo.io/host-and-deploy/deploy-to-github-pages/)。
+这是基于官方 [PaperMod](https://github.com/adityatelange/hugo-PaperMod) 的外观与行为复现，并非 Lil’Log 私有源码的副本。不沿用原作者身份、文章或统计代码。Hugo / PaperMod 的来源署名保留在本文档中，主题保留其目录内的 MIT LICENSE。部署方式参照 [Hugo 官方文档](https://gohugo.io/host-and-deploy/deploy-to-github-pages/)。
+
+全站关闭默认社交分享按钮，个人社交入口只在 `socialIcons` 配置真实账号 URL 后显示。页面页脚仅显示本站版权；`hideFooter: true` 配合 `layouts/_partials/extend_footer.html` 替换上游推广区域，不影响主题切换、回到顶部和代码复制。
