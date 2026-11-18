@@ -1,6 +1,6 @@
 # L’s Log
 
-基于 **Hugo + PaperMod + GitHub Pages** 的个人博客，参考 [Lil’Log](https://lilianweng.github.io/) 的阅读排版和页面结构。公开文章从空白开始；Markdown 草稿在本地编写、预览，完成后再发布。
+基于 **Hugo + PaperMod + GitHub Pages** 的个人博客，参考 [Lil’Log](https://lilianweng.github.io/) 的阅读排版和页面结构。正式文章保存在 `content/posts/`；Markdown 草稿在本地编写、预览，决定发布后再移入文章目录。
 
 ## 本地写作
 
